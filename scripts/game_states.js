@@ -179,6 +179,26 @@ Title_Screen.render = function(){
 }
 
 
+Load_Screen = {}
+
+Load_Screen.id = "Load_Screen"
+
+Load_Screen.start = function(){}
+
+Load_Screen.logic = function()
+{
+	if (imgLoadedCounter == imgSrc.length) {Game.change_state(Title_Screen), console.log("images loaded")}
+}
+
+Load_Screen.render = function()
+{
+	ctx.globalCompositeOperation = "source-over"
+	ctx.clearRect(0,0, canvas.width, canvas.height);
+
+	drawRect(ctx, 0, 0, canvas.width, canvas.height, 3, 0, null, "rgb(30,30,30)" );//draws background
+
+}
+
 
 
 

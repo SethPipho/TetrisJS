@@ -66,7 +66,7 @@ Game.start = function(){
 	
 	Game.next_tick = Date.now();
     Game.interpolation = 1;
-  	Game.change_state(Title_Screen);
+  	Game.change_state(Load_Screen);
   	canvas.width = Grid.width * Grid.size + 4
     canvas.height = Grid.height * Grid.size + 2
 	window.requestAnimationFrame(Game.run);
