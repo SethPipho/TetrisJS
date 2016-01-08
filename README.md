@@ -10,4 +10,4 @@ TetrisJS follows all(most) of the official rules/features in the [Official Tetri
 * Soft and Hard Drops  
 * LockDelay  
 
-This purpose of this project is just as a fun programming exericise for learning Javascript and Programming in general
+This purpose of this project is just as a fun programming exericise for learning Javascript and Programming in general.
