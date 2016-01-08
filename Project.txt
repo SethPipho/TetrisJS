@@ -1,0 +1,27 @@
+
+*****TETRIS_JS**********
+************************
+
+x Adjust Colors
+X Spawn Area
+	- spawn area visible, overflow
+X Add Next Piece
+x Clean/re-factor Code
+
+x Add Ghost Piece
+x Hard Drop
+x Add Line Clear Animation (simple, yet cool effect)
+- Add Line Clear Sound effect
+- Tetris Theme song
+x Basic Menu (Main, PLay, End, Pause)
+	x Start and pause still needed
+x Scoring
+x Leveling
+0 resurce loader (fonts/img/audio)
+-sprtie sheet?
+-organize files
+-music
+-better hit sound
+-line clear sound
+
+
