@@ -1,12 +1,11 @@
 #TetrisJS
 
-TetrisJs is a full featured Javascript written in Javascript. 
+**TetrisJs is a full featured Tetris Clone written in Javascript.** 
 
-TetrisJS follows all(most) of the official [Tetris Guidlines](https://tetris.wiki/Main_Page) such as:  
-	*SRS rotation  
-	*DAS  
-	*Wallkicks  
-	*Ghost Piece  
-	*Soft and Hard Drops  
-	*LockDelay  
-
+TetrisJS follows all(most) of the official rules/features in the [Official Tetris Guidlines](https://tetris.wiki/Main_Page) including:  
+* SRS rotation  
+* DAS  
+* Wallkicks  
+* Ghost Piece  
+* Soft and Hard Drops  
+* LockDelay  
