@@ -1,6 +1,6 @@
 #TetrisJS
 
-**TetrisJs is a full featured Tetris Clone written in Javascript.** 
+**TetrisJs is a full featured Tetris Clone written in Javascript.** [Play it here.](http://sethpipho.github.io/TetrisJS/)
 
 TetrisJS follows all(most) of the official rules/features in the [Official Tetris Guidlines](https://tetris.wiki/Main_Page) including:  
 * SRS rotation  
