@@ -37,7 +37,7 @@ var LOCK_DELAY_ON = false
 var Grid = {}
 
 	Grid.width = 12
-	Grid.height = 26
+	Grid.height = 27
 	Grid.size = 20
 	Grid.cells = //generates 2d 12x22 empty grid
 

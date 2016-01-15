@@ -22,6 +22,8 @@ Key = {};
 
 Key.OnkeyDown = function(event){
 
+	if(event.keyCode == 32) {event.preventDefault()}
+
 	if (Key.state[event.keyCode] != "down"){
 
 		Key.state[event.keyCode] = "pressed"

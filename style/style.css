@@ -1,0 +1,65 @@
+canvas{
+  display: block;
+ 
+  top: 30px; 
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+
+   
+ }
+  
+
+body {
+
+
+  
+
+  background-color: rgb(245,245,245);
+   margin: auto;
+  
+}
+
+
+#main{
+  
+  margin: auto;
+  margin-top: 10px;
+  width:290px;
+}
+
+.page-header{
+
+  padding-right: 10px;
+  width:200px;
+  margin:auto;
+  margin-top: 20px;
+  text-align: center;
+  padding-bottom:0px;
+}
+
+h3{
+  margin-bottom: 5px;
+}
+.panel{
+  padding:5px;
+}
+
+#controls{
+  margin: auto;
+  width:350px;
+}
+
+
+
+@font-face{
+  font-family: 'LazyPossum';
+  src: url('../fonts/Lazy Opossum.ttf');
+
+}
+
+
+
+	
+
