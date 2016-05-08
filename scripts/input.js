@@ -26,8 +26,10 @@ Key.Down = 40;
 Key.p = 80;
 Key.r = 82;
 Key.space = 32;
+
+Key.preventDefaultKeys = [32,38,40];
 Key.OnkeyDown = function(event) {
-  if (event.keyCode == 32) {
+  if (Key.preventDefaultKeys.indexOf(event.keyCode) != -1) {
     event.preventDefault()
   }
   if (Key.state[event.keyCode] != "down") {
